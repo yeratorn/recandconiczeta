@@ -1,5 +1,3 @@
-# [Paper Title]
-
 **Test codes for the paper:** Reciprocity For Dedekind Sums via Conical Zeta Values 
 
 **Author:** Yerko Torres-Nova
