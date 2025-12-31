@@ -8,3 +8,9 @@ This repository contains the reference implementation of the methods described i
 - **Paper:** https://arxiv.org/abs/2512.20542 
 
 ## Repository structure
+
+Each file testsc(number).py contains functions that allow testing the statements of the section (number) of the paper. 
+
+## Versions
+
+**v0:** All the functions work. Soon, a cleaner version with a Jupyter notebook for experimentation.
